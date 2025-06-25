@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# Env
+.env
+
+# Dumps and DB
+/dumps/
+pgdata/
+*.sql
+
+# Docker
+*.pid
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other
+*.swp
+*.swo
